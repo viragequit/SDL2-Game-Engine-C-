@@ -1,0 +1,11 @@
+Create menu template (title screen, pause menu)
+
+Allow level maps to be loaded from a file (.csv)
+
+Figure out how to make scrolling levels
+
+Implement audio player for music and sound effects
+
+Work on collision detection
+
+Make changes to mode seven class, only use surface and no texture! SDL_BlitSurface()!
